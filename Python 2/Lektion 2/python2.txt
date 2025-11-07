@@ -1,2 +1,0 @@
-Write this example scentence in the empty file.
-It is possible to write several lines.
